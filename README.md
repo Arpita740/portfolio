@@ -1,3 +1,3 @@
 # portfolio
 
-https://arpita740.github.io/portfolio
+https://arpita740.github.io/portfolio/
